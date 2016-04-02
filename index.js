@@ -1,3 +1,3 @@
 (function(){
-	console.log("Welcome to Git");
+	console.log("Welcome to Git First Project");
 })();
